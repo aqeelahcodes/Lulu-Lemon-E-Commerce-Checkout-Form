@@ -6,7 +6,7 @@ HTML | CSS
 Favicon https://favicon.io/
 
 ## What the project does
-A static checkout page for form
+A static form checkout page 
 
 ## Why the project is useful
 Gained experience creating forms on the frontend 
